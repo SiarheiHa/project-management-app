@@ -1,0 +1,9 @@
+.ProfileForm{
+  max-width: 400px;
+  margin: 0 auto;
+  .inner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+}

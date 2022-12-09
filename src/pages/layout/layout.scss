@@ -1,0 +1,18 @@
+$color-light-l: #e7ebf0;
+
+
+body {
+  background-color: $color-light-l;
+}
+
+.layout{
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  flex-grow: 1;
+}
+main.main{
+  position: relative;
+  flex-direction: column;
+  flex-grow: 1
+}
